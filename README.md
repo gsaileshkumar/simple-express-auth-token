@@ -45,6 +45,12 @@ NOTE: Since the main goal of this exercise is to implement a token based endpoin
 username, password and jwt signing secrets are hardcoded for simplicity
 and hence these variables are prefixed with `UNSAFE_`
 
+## Tech stack used
+
+- express
+- jsonwebtoken
+- vitest
+
 ## Testing the app
 
 Run the test cases by executing `yarn run test`
